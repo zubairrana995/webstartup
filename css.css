@@ -1,0 +1,27 @@
+html,body{
+    font-family: 'Odibee Sans', ;
+    background: url(Wallpapers/3.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+h1{
+    font-size: 3rem;
+    color: #056d28;
+}
+.buffer{
+    height: 50px;
+}
+.btn{
+    font-weight: 700;
+    border-radius: 200px;
+    text-transform: uppercase;
+}
+.btn-primary{
+    background-color:#282921;
+    border-color: #282921;
+}
+.btn-x1{
+    padding: 1rem 2rem;
+}
